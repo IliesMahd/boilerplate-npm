@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Iliès Mahoudeau",
+	"description": "NodeJS course",
+	"keywords": [
+		"nodejs",
+		"course",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
